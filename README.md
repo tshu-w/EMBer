@@ -61,7 +61,7 @@ You can also run experiments with the `run` script.
 
 ## Citation
 ```
-@inproceedings{ijcai2022p552,
+@inproceedings{ijcai2022p0552,
   title     = {Bridging the Gap between Reality and Ideality of Entity Matching: A Revisiting and Benchmark Re-Construction},
   author    = {Wang, Tianshu and Lin, Hongyu and Fu, Cheng and Han, Xianpei and Sun, Le and Xiong, Feiyu and Chen, Hui and Lu, Minlong and Zhu, Xiuwen},
   booktitle = {Proceedings of the Thirty-First International Joint Conference on
