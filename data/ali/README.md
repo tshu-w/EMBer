@@ -45,7 +45,7 @@ Each instance (record pair) consists of two records, distinguished by the suffix
 
 ## Statistics
 
-The statisstics of bechmarks is as follow:
+The statistics of benchmarks is as follow:
 
 <table>
 <thead>
@@ -53,7 +53,7 @@ The statisstics of bechmarks is as follow:
     <th></th>
     <th></th>
     <th>#Postive</th>
-    <th>#Negtive</th>
+    <th>#Negative</th>
     <th>#Total</th>
   </tr>
 </thead>
